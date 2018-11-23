@@ -1,0 +1,5 @@
+ip: 127.0.0.1
+port: 5037
+device_name: emulator-5554
+connect_func: ADBORI
+app_package: com.orbbec.gdgamecenter
